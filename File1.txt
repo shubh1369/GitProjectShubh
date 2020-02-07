@@ -1,3 +1,6 @@
 Hello World
 
 change 1 - bug fix
+
+chaneg 2 - three way merging and for that we would commit one for time.
+create new branch for bug2
