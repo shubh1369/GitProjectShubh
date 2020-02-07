@@ -2,4 +2,9 @@ Hello World
 
 change 1 - bug fix
 
-change for creating conflict , change from team member
+
+change 2- for creating conflict , change from team member
+
+chaneg 3 - three way merging and for that we would commit one for time.
+-------create new branch for bug2(monica wala)
+
