@@ -13,3 +13,4 @@ change 6 - git after update from local
 
 change 7 - This change is from remote side(github)
 
+change 8 - from remote once again
