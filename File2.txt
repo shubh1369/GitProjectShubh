@@ -4,4 +4,8 @@ change 2 - github k time updated the value
 
 change 3 - commit from github
 
+<<<<<<< HEAD
 change 4 - with confict rebasing here this is remote  
+=======
+change 4 - from local
+>>>>>>> From local master
