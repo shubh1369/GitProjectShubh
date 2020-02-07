@@ -1,3 +1,5 @@
 new feature added
 
-github k time updated the value
+change 2 - github k time updated the value
+
+change 3 - commit from github
